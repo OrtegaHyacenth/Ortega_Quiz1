@@ -15,7 +15,7 @@ public class ORTEGA_Quiz1 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // jhghgjhgjgj
+//        /jokokok
     }
     
 }
